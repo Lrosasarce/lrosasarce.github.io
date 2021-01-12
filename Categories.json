@@ -1,0 +1,28 @@
+{
+	"data": [{
+			"id": 1,
+			"name": "Ensaladas",
+			"image": "salad"
+		},
+		{
+			"id": 2,
+			"name": "Sopas",
+			"image": "soup"
+		},
+		{
+			"id": 3,
+			"name": "Comidas",
+			"image": "food"
+		},
+		{
+			"id": 4,
+			"name": "Postres",
+			"image": "dessert"
+		},
+		{
+			"id": 5,
+			"name": "Bebidas",
+			"image": "drinks"
+		}
+	]
+}

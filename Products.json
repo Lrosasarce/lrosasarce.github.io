@@ -1,0 +1,122 @@
+{
+	"data": [{
+			"id": 1,
+			"name": "Ensalada de Zanahoria",
+			"category": 1,
+			"summary": "Una de las ensaladas más populares del verano es la ensaladilla rusa y con esta receta le damos un giro usando nabos en vez de patatas y cambiando la mayonesa por un poco de nata. El resultado, espectacular y la preparación, sencillísima,",
+			"image": "salad"
+		},
+		{
+			"id": 2,
+			"name": "Ensalada Waldorf",
+			"category": 1,
+			"summary": "Y si la ensalada César tiene fama mundial, la ensalada Waldorf no se queda atrás. Fácil y riquísima con el toque de la manzana o, como en este caso, de la pera",
+			"image": "salad"
+		},
+		{
+			"id": 3,
+			"name": "Ensalada César",
+			"category": 1,
+			"summary": "Sin duda, en esta ensalada lo más importante es la deliciosa salsa César, incluso la encontramos en la mayoría de los supermercados. Pero veréis que con nuestra receta de salsa César casera hacerla vosotros mismos no tiene secretos. Sin duda una ensalada fresca y sabrosa perfecta para cualquier ocasión.",
+			"image": "salad"
+		},
+		{
+			"id": 4,
+			"name": "Menestrón Peruano",
+			"category": 2,
+			"summary": "Minestrone, minestrón​ o menestrón​​​ es una especialidad de la cocina italiana similar a una sopa elaborada con verduras de la época del año, como la tradicional sopa de verduras española. A menudo se le añade algo de pasta o arroz. Los ingredientes más comunes son judías, cebollas, apio, zanahorias y tomates.",
+			"image": "soup"
+		},
+		{
+			"id": 5,
+			"name": "Caldo de gallina",
+			"category": 2,
+			"summary": "El caldo de pollo es una sopa.​ A menudo se sirve con trozos de carne o con granos de arroz o cebada, pasta, zanahoria, papa amarilla, apio, cebolla blanca, etc.​ Se considera también un remedio casero contra los enfriamientos y los catarros",
+			"image": "soup"
+		},
+		{
+			"id": 6,
+			"name": "Sopa a la minuta",
+			"category": 2,
+			"summary": "La sopa a la minuta es un plato típico de la gastronomía peruana. Se trata de una sopa casera, económica, ligera y rápida de preparar, cuya receta se conoce desde finales del siglo XIX.​ Puede que haya llegado con la inmigración italiana al Perú",
+			"image": "soup"
+		},
+		{
+			"id": 7,
+			"name": "Aguadito de Pollo",
+			"category": 2,
+			"summary": "El aguadito de pollo es el platillo perfecto para la época de intenso frío, es una sopa con un gran concentrado, pues está hecha con pechuga, huesos y menudencias de pollo y culantro molido.",
+			"image": "soup"
+		},
+		{
+			"id": 8,
+			"name": "Arroz con Pollo",
+			"category": 3,
+			"summary": "El arroz con pollo es un plato típico de España y América Latina​ con variaciones regionales según el país. Consiste en arroz cocinado con pollo, en presas o desmechado, verduras, y sazonado con especias ",
+			"image": "food"
+		},
+		{
+			"id": 9,
+			"name": "Papa Rellena",
+			"category": 3,
+			"summary": "La papa rellena es una fritura típica de varios países latinoamericanos como Chile, ​ Colombia, ​​ Cuba, Perú​​ y Puerto Rico.​ Consiste en una masa frita de papa cocida, rellena de carne de vacuno, pollo, queso, cebollas, aceitunas, huevos duros, entre otros ingredientes picados. ",
+			"image": "food"
+		},
+		{
+			"id": 10,
+			"name": "Lomo Saltado",
+			"category": 3,
+			"summary": "El lomo saltado es un plato típico de la gastronomía del Perú consistente en carne de res, arroz cocido y papas fritas. Es uno de los platos más consumidos popularmente en el Perú",
+			"image": "food"
+		},
+		{
+			"id": 11,
+			"name": "Pachamanca",
+			"category": 3,
+			"summary": "La pachamanca es un plato típico del Perú, elaborado por la cocción, al calor de piedras precalentadas, de carnes de vaca, de cerdo, pollo y cuy previamente aderezados con ingredientes como chincho (el principal), huacatay, ají, comino, pimiento y otras especias.",
+			"image": "food"
+		},
+		{
+			"id": 12,
+			"name": "Ají de gallina",
+			"category": 3,
+			"summary": "El ají de gallina es un plato típico de la gastronomía peruana, concretamente de la costa, ​ que consiste en un ají o crema espesa con pechuga de gallina deshilachada. Esta crema es servida con papas cocidas, y en ocasiones con arroz blanco. Es común reemplazar la gallina por pollo.",
+			"image": "food"
+		},
+		{
+			"id": 13,
+			"name": "Torta de chocolate",
+			"category": 4,
+			"summary": "El pastel de chocolate, tarta de chocolate o torta de chocolate, es un postre conocido internacionalmente, que se popularizó a finales del siglo XIX y se sirve frecuentemente en reuniones, como fiestas de cumpleaños y bodas.",
+			"image": "dessert"
+		},
+		{
+			"id": 14,
+			"name": "Torta 3 leches",
+			"category": 4,
+			"summary": "La tres leches o también conocido como torta de tres leches es un postre esponjoso que a sido remojado en una mezcla de tres tipos de leche (crema de leche, leche evaporada y leche condensada). Este postre no solo se consume en Perú, también se consume en otros países de America Latina.",
+			"image": "dessert"
+		},
+		{
+			"id": 15,
+			"name": "Limonada Frozen",
+			"category": 5,
+			"summary": "Si eres fanática de las bebidas heladas, entonces no puedes dejar de preparar esta deliciosa limonada frozen, te enseñamos cómo.",
+			"image": "drinks"
+		},
+		{
+			"id": 16,
+			"name": "Chilcano",
+			"category": 5,
+			"summary": "El chilcano o chilcanito es un cóctel tradicional peruano que se prepara sobre la base del pisco, jugo de limón y refresco de soda.​ Sería una adaptación del «gin con gin",
+			"image": "drinks"
+		},
+		{
+			"id": 17,
+			"name": "Pisco Sour",
+			"category": 5,
+			"summary": "El pisco sour es un cóctel preparado con pisco y zumo de limón. La denominación proviene de la unión de las palabras «pisco» y «sour». Está incluido en la gastronomía de Perú, preparado con una receta diferente respectivamente, y con algunas variaciones en el resto de sus ingredientes básicos.",
+			"image": "drinks"
+		}
+	]
+}
